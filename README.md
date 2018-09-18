@@ -1,2 +1,6 @@
 # Adversarial-Research
-Our research into generating adversarial images and defending strategies against adversarial attacks - COEHacks 2018 honorable mention l33t 4ack3rz
+Our research into generating adversarial images and defending strategies against adversarial attacks
+
+Intel COEHacks 2018 - FAMU-FSU College of Engineering Fall 2018
+Honorable mention
+l33t 4ack3rz 
